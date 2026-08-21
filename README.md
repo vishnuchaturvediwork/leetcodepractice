@@ -1,1 +1,1 @@
-# leetcodepractice
+# This repository will be used to record the problem statements and their solution in Java which I use to practice.
